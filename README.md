@@ -1,4 +1,15 @@
-# R CHARTS 📈📊📉
+<h1 style="font-weight:normal" align="center">
+  &nbsp;R CHARTS 📈📊📉&nbsp;
+</h1>
+
+<div align="center">
+
+&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/RCoderWeb"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/RCODERweb"><img border="0" alt="Facebook" src="https://assets.dryicons.com/uploads/icon/svg/8305/089674ac-511d-4993-8fe9-c616e1f0c857.svg" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;
+
+</div>
+
 
 
 <p align="center">
