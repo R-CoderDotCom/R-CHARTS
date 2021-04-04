@@ -17,7 +17,7 @@
 ## Index
 
 - [English version](#english-version)
-- [Versión en español](#version-en-español)
+- [Versión en español](#versión-en-español)
 
 
 ## English version
