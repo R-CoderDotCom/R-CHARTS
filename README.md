@@ -99,7 +99,7 @@ If you want to [create you own color palette](https://r-charts.com/color-palette
 
 + **If you have developed a chart** that you think it can be interesting to other people or if you have developed **a new R package for visualization** and you think it can be interesting for the community [open an issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) explaining me about that visualizations and why I should consider adding it to the site. If you want me to create the tutorial for your proposal it might take some time to be available, but if you want to contribute creating the tutorial also [open an issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) asking me for the steps to follow.
 
-+ **If you find misspelled words or any expression that makes no sense** also [open an issue](https://github.com/R-CoderDotCom/R-CHARTS/issues).
++ **If you find misspelled words / wrong expressions / broken links** also [open an issue](https://github.com/R-CoderDotCom/R-CHARTS/issues).
 
 
 
@@ -177,4 +177,4 @@ Si prefieres [crear tus propias paletas de color](https://r-charts.com/es/genera
 
 + **Si has desarrollado un gráfico** que crees que puede ser interesante para otras personas o si has desarrollado **un nuevo paquete de R para visualización** y crees que puede ser interesante para la comunidad [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) explicándome sobre esas visualizaciones y por qué debería considerar agregarlas al sitio. Si quieres que sea yo quien cree la propuesta de tutorial seguramente tarde tiempo en estar disponible, pero si quieres contribuir creando el tutorial [abre también un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) preguntándome por los pasos a seguir.
 
-+ **Si encuentras alguna palabra mal escrita o una expresión incorrecta** también [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues).
++ **Si encuentras alguna palabra mal escrita / una expresión incorrecta / enlaces rotos** también [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues).
