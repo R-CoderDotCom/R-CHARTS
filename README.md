@@ -32,7 +32,7 @@ R CHARTS is a web site specialized in data visualization in R. The site contains
 
 ### How and Who
 
-+ This is a work by José Carlos Soage (heirenafter, the Author). Both the HUGO template and the content of the site were developed by the Author.
++ This is a work by **José Carlos Soage** (heirenafter, the Author). Both the HUGO template and the content of the site were developed by the Author.
 + The site was generated using [blogdown](https://cran.r-project.org/web/packages/blogdown/index.html) an R package for developing HUGO websites in R (allowing using R Markdown).
 + The development of the first public version took over 6 months of hard work, whithout any king of financial support of any company or institution. The Author decided to create the site by his own on his spare time.
 + If you want to know more about the Author check the [About page](https://r-charts.com/about/).
@@ -62,7 +62,7 @@ There are also tutorials for learning how to customize the charts, both for base
 </p>
 
 
-Note that there is a live search feature to look for the tutorials. Click on the search button or press SHIFT to open it. You can close it with clicking over the icon or pressing ESC.
+Note that there is a **live search feature** to look for the tutorials. Click on the search button or press <kbd>SHIFT</kbd> to open it. You can close it with clicking over the icon or pressing <kbd>ESC</kbd>.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/67192157/113423693-37e1f280-93cf-11eb-9edf-189e8aafabe6.gif">
@@ -71,19 +71,19 @@ Note that there is a live search feature to look for the tutorials. Click on the
 
 #### Color tools
 
-The site contains the full list of colors available in R (the colors() function). You can copy both the HEX or the name of the color. The page also contains a color converter from HEX to RGB (use it with the rgb function) and a color picker.
+The site contains the [full list of colors available in R](https://r-charts.com/colors/) (the colors() function). You can copy both the HEX or the name of the color. The page also contains a color converter from HEX to RGB (use it with the rgb function) and a color picker.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/67192157/113423004-074d8900-93ce-11eb-834f-25dc264422c0.gif">
 </p>
 
-There is also a page that contains almost 500 different color palettes from 16 R packages.
+There is also a page that contains almost [500 different color palettes](https://r-charts.com/color-palettes/) from 16 R packages.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/67192157/113423239-614e4e80-93ce-11eb-88a7-fa1fe50eca06.gif">
 </p>
 
-If you want to create you own color palette use the color palette generator (work in progress). You can also upload your own plot in SVG and change its colors for previsualization purposes.
+If you want to [create you own color palette](https://r-charts.com/color-palette-generator/) use the color palette generator (work in progress). You can also upload your own plot in SVG and change its colors for previsualization purposes.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/67192157/113423537-f0f3fd00-93ce-11eb-8f22-0e28af4ffa30.gif">
@@ -113,7 +113,7 @@ R CHARTS es una página web especializada en visualización de datos en R. El si
 
 ### ¿Quién y cómo?
 
-+ Este es un trabajo de José Carlos Soage (en adelante, el Autor). Tanto la plantilla de HUGO como el contenido de la página han sido desarrollados por el Autor.
++ Este es un trabajo de **José Carlos Soage** (en adelante, el Autor). Tanto la plantilla de HUGO como el contenido de la página han sido desarrollados por el Autor.
 + El sitio ha sido generado con [blogdown](https://cran.r-project.org/web/packages/blogdown/index.html), un paquete de R para desarrollar páginas de HUGO en R (permitiendo usar R Markdown). 
 + El desarrollo de la primera versión pública llevó más de 6 meses de trabajo duro, sin contar con ningún tipo de financiación de ninguna organización ni institución y ha sido decisión del Autor crearla en su tiempo libre.
 + Si quieres saber más sobre el Autor consulta la página [Acerca](https://r-charts.com/es/acerca/).
@@ -175,6 +175,6 @@ Si prefieres [crear tus propias paletas de color](https://r-charts.com/es/genera
 
 + **Si crees que falta algún tutorial importante** en el sitio [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) y házmelo saber. Sé que todavía hay muchos gráficos o paquetes interesantes sin su correspondiente tutorial, pero si recibo feedback podré priorizar la creación de los tutoriales más importantes. Si además quieres crear el tutorial [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) y pregúntame los pasos que tendrás que seguir para crearlo con R Markdown manteniendo el formato y estilo de la web. Puede que explique en este Readme esto último en un futuro cercano, para que no tengas que preguntar.
 
-+ **Si has desarrollado un gráfico** que crees que puede ser interesante para otras personas o si has desarrollado **un nuevo paquete de R para visualización** y crees que puede ser interesante para la comunidad [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) explicándome sobre esas visualizaciones y por qué debería considerar agregarlas al sitio. Si quieres que sea yo quien cree la propuesta de tutorial seguramente tarde tiempo en estar disponible, pero si quieres contribuir creando el tutorial [abre también un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) preguntandome por los pasos a seguir.
++ **Si has desarrollado un gráfico** que crees que puede ser interesante para otras personas o si has desarrollado **un nuevo paquete de R para visualización** y crees que puede ser interesante para la comunidad [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) explicándome sobre esas visualizaciones y por qué debería considerar agregarlas al sitio. Si quieres que sea yo quien cree la propuesta de tutorial seguramente tarde tiempo en estar disponible, pero si quieres contribuir creando el tutorial [abre también un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) preguntándome por los pasos a seguir.
 
 + **Si encuentras alguna palabra mal escrita o una expresión incorrecta** también [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues).
