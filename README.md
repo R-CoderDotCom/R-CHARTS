@@ -10,6 +10,8 @@
 
 </div>
 
+<a href="https://www.buymeacoffee.com/RCODER"><img src="https://img.buymeacoffee.com/button-api/?text=Support R CHARTS&emoji=&slug=RCODER&button_colour=67c9ff&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a>
+
 <p align="center">
  <img src="https://user-images.githubusercontent.com/67192157/113421174-e6376900-93ca-11eb-8a07-4ae2fd63b493.png">
 </p>
