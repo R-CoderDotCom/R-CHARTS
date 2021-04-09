@@ -111,7 +111,7 @@ If you want to [create you own color palette](https://r-charts.com/color-palette
 If you like my projects so much you can contribute to their financial support. At this moment there are two ways to support me:
 
 + **Placing ads on my sites**. If you want to place some ads on my sites please [contact me](mailto:support.rcoder@protonmail.com) via email with your proposal to negotiate the conditions.
-+ **Supporting me via Buy Me a Coffee**. You can also support me using [this platform](https://www.buymeacoffee.com/RCODER), with a single donation or becoming a member.
++ **Supporting me via Buy Me a Coffee**. You can also support me using [this platform](https://www.buymeacoffee.com/RCODER) with a single donation or becoming a member.
 
 
 ## Versión en español
@@ -194,8 +194,10 @@ Si prefieres [crear tus propias paletas de color](https://r-charts.com/es/genera
 
 ## ¿Cómo apoyar este proyecto?
 
-Si te encantan mis proyectos puedes contribuir a su financiación. EN este momento existen dos formas para apoyarme:
+Si te encantan mis proyectos puedes contribuir a su financiación. En este momento existen dos vías para apoyarme:
 
 + **Agregando anuncios en mis sitios**. Si quieres añadir anuncios a mis páginas web [contacta conmigo](mailto:support.rcoder@protonmail.com) a través del correo electrónico con tu propuesta para negociar las condiciones.
 
-+ **Apóyame a través de Buy Me a Coffee**. También puedes usar [esta plataforma](https://www.buymeacoffee.com/RCODER), con una única donación o conviertiéndote en miembro.
++ **Apóyame a través de Buy Me a Coffee**. También puedes usar [esta plataforma](https://www.buymeacoffee.com/RCODER) para apoyarme con una única donación o conviertiéndote en miembro.
+
+
