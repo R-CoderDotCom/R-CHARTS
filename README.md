@@ -18,33 +18,33 @@
 <a href="https://www.buymeacoffee.com/RCODER"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=RCODER&button_colour=67c9ff&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a>
 </div>
 
-## Index
+# Index
 
 - [English version](#english-version)
 - [Versión en español](#versión-en-español)
 
 
-## English version
+# English version
 
 Welcome to the official repository of the [R CHARTS](https://r-charts.com/) site! 
 
 
-### What is R CHARTS?
+## What is R CHARTS?
 
 R CHARTS is a web site specialized in data visualization in R. The site contains over 1000 charts, 120 tutorials and three color tools for each language, both base R and ggplot2 graphics.
 
 
-### How and Who
+## How and Who
 
 + This is a work by **José Carlos Soage** (heirenafter, the Author). Both the HUGO template and the content of the site were developed by the Author.
 + The site was generated using [blogdown](https://cran.r-project.org/web/packages/blogdown/index.html) an R package for developing HUGO websites in R (allowing using R Markdown).
 + The development of the first public version took over 6 months of hard work, whithout any kind of financial support of any company or institution. The Author decided to create the site by his own on his spare time.
 + If you want to know more about the Author check the [About page](https://r-charts.com/about/).
 
-### What is in the box?
+## What is in the box?
 
 
-#### Tutorials
+### Tutorials
 There are 8 main categories. Once you select one you can filter the charts based on the type of chart and the package used to create it (base R or ggplot2).
 
 <p align="center">
@@ -73,7 +73,7 @@ Note that there is a **live search feature** to look for the tutorials. Click on
 </p>
 
 
-#### Color tools
+### Color tools
 
 The site contains the [full list of colors available in R](https://r-charts.com/colors/) (the colors() function). You can copy both the HEX or the name of the color. The page also contains a color converter from HEX to RGB (use it with the rgb function) and a color picker.
 
@@ -97,7 +97,7 @@ If you want to [create you own color palette](https://r-charts.com/color-palette
 **<h2>Note that the quality of the GIFs is very low. Check the site to see the actual design.</h2>**
 
 
-### How to contribute?
+## How to contribute?
 
 + **If you think there are important tutorials missing** on the site [open an issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) and let me know. I have a roadmap and I know there are still many interesting charts or packages without their corresponding tutorial, but if you provide me feedback I will be able to priorize the most important tutorials. If you want to create the tutorial also [open an issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) asking me for the steps you will have to follow to create it with R Markdown following the format and style of the site. I might explain the latter in this Readme in the near future so you won't have to ask.
 
@@ -114,24 +114,24 @@ If you like my projects so much you can contribute to their financial support. A
 + **Supporting me via Buy Me a Coffee**. You can also support me using [this platform](https://www.buymeacoffee.com/RCODER) with a single donation or becoming a member.
 
 
-## Versión en español
+# Versión en español
 
 ¡Bienvenido al repositorio oficial de [R CHARTS](https://r-charts.com/es/)! 
 
-### ¿Qué es R CHARTS?
+## ¿Qué es R CHARTS?
 
 R CHARTS es una página web especializada en visualización de datos en R. El sitio contiene más de 1000 gráficos, 120 tutoriales y tres herramientas de color para cada lenguaje, tanto gráficos de R base como ggplot2.
 
-### ¿Quién y cómo?
+## ¿Quién y cómo?
 
 + Este es un trabajo de **José Carlos Soage** (en adelante, el Autor). Tanto la plantilla de HUGO como el contenido de la página han sido desarrollados por el Autor.
 + El sitio ha sido generado con [blogdown](https://cran.r-project.org/web/packages/blogdown/index.html), un paquete de R para desarrollar páginas de HUGO en R (permitiendo usar R Markdown). 
 + El desarrollo de la primera versión pública llevó más de 6 meses de trabajo duro, sin contar con ningún tipo de financiación de ninguna organización ni institución y ha sido decisión del Autor crearla en su tiempo libre.
 + Si quieres saber más sobre el Autor consulta la página [Acerca](https://r-charts.com/es/acerca/).
 
-### ¿Qué ofrece?
+## ¿Qué ofrece?
 
-#### Tutoriales
+### Tutoriales
 
 Existen ocho grandes categorías. Una vez selecciones una puedes filtrar los gráficos en base al tipo de gráfico y el paquete usado para crearlo (R base o ggplot2).
 
@@ -158,7 +158,7 @@ Ten en cuenta que la web proporciona un buscador en tiempo real para buscar tuto
 </p>
 
 
-#### Herramientas de colores
+### Herramientas de colores
 
 El sitio contiene la [lista completa de colores disponibles en R](https://r-charts.com/es/colores/) (con la función colors()). Puedes copiar tanto la referencia HEX como el nombre del color. La página también proporciona una herramietna para convertir HEX a RGB (y usarlos con la función rgb) y un selector de colores.
 
@@ -182,7 +182,7 @@ Si prefieres [crear tus propias paletas de color](https://r-charts.com/es/genera
 **<h2>Ten en cuenta que la calidad de los GIFs es muy baja. Visita el sitio web para ver el diseño en vivo</h2>**
 
 
-### ¿Cómo contrubuir?
+## ¿Cómo contrubuir?
 
 + **Si crees que falta algún tutorial importante** en el sitio [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) y házmelo saber. Sé que todavía hay muchos gráficos o paquetes interesantes sin su correspondiente tutorial, pero si recibo feedback podré priorizar la creación de los tutoriales más importantes. Si además quieres crear el tutorial [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) y pregúntame los pasos que tendrás que seguir para crearlo con R Markdown manteniendo el formato y estilo de la web. Puede que explique en este Readme esto último en un futuro cercano, para que no tengas que preguntar.
 
