@@ -66,7 +66,7 @@ There are also tutorials for learning how to customize the charts, both for base
 </p>
 
 
-Note that there is a **live search feature** to look for the tutorials. Click on the search button or press <kbd>SHIFT</kbd> to open it. You can close it clicking over the icon close or pressing <kbd>ESC</kbd>.
+Note that there is a **live search feature** to look for the tutorials. Click on the search button or press <kbd>SHIFT</kbd> to open it. You can close it clicking over the close icon or pressing <kbd>ESC</kbd>.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/67192157/113423693-37e1f280-93cf-11eb-9edf-189e8aafabe6.gif">
