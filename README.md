@@ -106,6 +106,13 @@ If you want to [create you own color palette](https://r-charts.com/color-palette
 + **If you find misspelled words / wrong expressions / broken links** also [open an issue](https://github.com/R-CoderDotCom/R-CHARTS/issues).
 
 
+## How to support this project?
+
+If you like my projects so much you can contribute to their financial support. At this moment there are two ways to support me:
+
++ **Placing ads on my sites**. If you want to place some ads on my sites please [contact me](mailto:support.rcoder@protonmail.com) via email with your proposal to negotiate the conditions.
++ **Supporting me via Buy Me a Coffee**. You can also support me using [this platform](https://www.buymeacoffee.com/RCODER), with a single donation or becoming a member.
+
 
 ## Versión en español
 
@@ -182,3 +189,13 @@ Si prefieres [crear tus propias paletas de color](https://r-charts.com/es/genera
 + **Si has desarrollado un gráfico** que crees que puede ser interesante para otras personas o si has desarrollado **un nuevo paquete de R para visualización** y crees que puede ser interesante para la comunidad [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) explicándome sobre esas visualizaciones y por qué debería considerar agregarlas al sitio. Si quieres que sea yo quien cree la propuesta de tutorial seguramente tarde tiempo en estar disponible, pero si quieres contribuir creando el tutorial [abre también un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) preguntándome por los pasos a seguir.
 
 + **Si encuentras alguna palabra mal escrita / una expresión incorrecta / enlaces rotos** también [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues).
+
+
+
+## ¿Cómo apoyar este proyecto?
+
+Si te encantan mis proyectos puedes contribuir a su financiación. EN este momento existen dos formas para apoyarme:
+
++ **Agregando anuncios en mis sitios**. Si quieres añadir anuncios a mis páginas web [contacta conmigo](mailto:support.rcoder@protonmail.com) a través del correo electrónico con tu propuesta para negociar las condiciones.
+
++ **Apóyame a través de Buy Me a Coffee**. También puedes usar [esta plataforma](https://www.buymeacoffee.com/RCODER), con una única donación o conviertiéndote en miembro.
