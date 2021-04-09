@@ -38,7 +38,7 @@ R CHARTS is a web site specialized in data visualization in R. The site contains
 
 + This is a work by **José Carlos Soage** (heirenafter, the Author). Both the HUGO template and the content of the site were developed by the Author.
 + The site was generated using [blogdown](https://cran.r-project.org/web/packages/blogdown/index.html) an R package for developing HUGO websites in R (allowing using R Markdown).
-+ The development of the first public version took over 6 months of hard work, whithout any king of financial support of any company or institution. The Author decided to create the site by his own on his spare time.
++ The development of the first public version took over 6 months of hard work, whithout any kind of financial support of any company or institution. The Author decided to create the site by his own on his spare time.
 + If you want to know more about the Author check the [About page](https://r-charts.com/about/).
 
 ### What is in the box?
