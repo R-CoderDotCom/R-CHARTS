@@ -26,36 +26,35 @@
 
 # English version
 
-Welcome to the official repository of the [R CHARTS](https://r-charts.com/) site! 
+Welcome to the official repository of [R CHARTS](https://r-charts.com/)! 
 
 
 ## What is R CHARTS?
 
-R CHARTS is a web site specialized in data visualization in R. The site contains over 1000 charts, 120 tutorials and three color tools for each language, both base R and ggplot2 graphics.
+R CHARTS is a web site specialized in data visualization in R. The site contains over 1100 charts, 120 tutorials and three color tools for each language, both base R and ggplot2 graphics.
 
 
 ## How and Who
 
 + This is a work by **José Carlos Soage** (heirenafter, the Author). Both the HUGO template and the content of the site were developed by the Author.
 + The site was generated using [blogdown](https://cran.r-project.org/web/packages/blogdown/index.html) an R package for developing HUGO websites in R (allowing using R Markdown).
-+ The development of the first public version took over 6 months of hard work, whithout any kind of financial support of any company or institution. The Author decided to create the site by his own on his spare time.
++ The development of the first public version of R CHARTS took over 6 months of hard work, whithout any kind of financial support of any company or institution. The Author decided to create the site by his own on his spare time.
 + If you want to know more about the Author check the [About page](https://r-charts.com/about/).
 
 ## What is in the box?
-
 
 ### Tutorials
 There are 8 main categories. Once you select one you can filter the charts based on the type of chart and the package used to create it (base R or ggplot2).
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/67192157/113421710-db310880-93cb-11eb-9216-9dd7f31cc05e.gif">
+ <img src="https://user-images.githubusercontent.com/67192157/114716251-2932fe00-9d34-11eb-92dc-9d6532f032f1.gif">
 </p>
 
 
 Then you can access each tutorial. You can copy and paste each code clicking on the upper right button of the code chunks, navigate through the sections with the left menu and view more related content with the carrousel of the bottom.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/67192157/113422036-5b576e00-93cc-11eb-9e7c-7117ff752c67.gif">
+ <img src="https://user-images.githubusercontent.com/67192157/114716416-52538e80-9d34-11eb-8bf7-8787b9f6254b.gif">
 </p>
 
 
@@ -99,9 +98,9 @@ If you want to [create you own color palette](https://r-charts.com/color-palette
 
 ## How to contribute?
 
-+ **If you think there are important tutorials missing** on the site [open an issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) and let me know. I have a roadmap and I know there are still many interesting charts or packages without their corresponding tutorial, but if you provide me feedback I will be able to priorize the most important tutorials. If you want to create the tutorial also [open an issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) asking me for the steps you will have to follow to create it with R Markdown following the format and style of the site. I might explain the latter in this Readme in the near future so you won't have to ask.
++ **If you think there are important tutorials missing** on the site [open an issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) and let me know. I have a roadmap and I know there are still many interesting charts or packages without their corresponding tutorial, but if you provide me feedback I will be able to priorize the most important tutorials. If you want to create the tutorial also [open an issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) asking me for the steps you will have to follow to create it with R Markdown following the format and style of the site (you will need to know HTML and CSS). I might explain the latter in this Readme in the near future so you won't have to ask.
 
-+ **If you have developed a chart** that you think it can be interesting to other people or if you have developed **a new R package for visualization** and you think it can be interesting for the community [open an issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) explaining me about that visualizations and why I should consider adding it to the site. If you want me to create the tutorial for your proposal it might take some time to be available, but if you want to contribute creating the tutorial also [open an issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) asking me for the steps to follow.
++ **If you have developed a chart** that you think it can be interesting to other people or if you have developed **a new R package for visualization** and you think it can be interesting for the community [open an issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) explaining me about that visualizations and why I should consider adding it to the site. If you want me to create the tutorial of your proposal it might take some time to be available, but if you want to contribute creating the tutorial ask me for the steps to follow.
 
 + **If you find misspelled words / wrong expressions / broken links** also [open an issue](https://github.com/R-CoderDotCom/R-CHARTS/issues).
 
@@ -120,7 +119,7 @@ If you like my projects so much you can contribute to their financial support. A
 
 ## ¿Qué es R CHARTS?
 
-R CHARTS es una página web especializada en visualización de datos en R. El sitio contiene más de 1000 gráficos, 120 tutoriales y tres herramientas de color para cada lenguaje, tanto gráficos de R base como ggplot2.
+R CHARTS es una página web especializada en visualización de datos en R. El sitio contiene más de 1100 gráficos, 120 tutoriales y tres herramientas de color para cada lenguaje, tanto gráficos de R base como ggplot2.
 
 ## ¿Quién y cómo?
 
@@ -136,13 +135,13 @@ R CHARTS es una página web especializada en visualización de datos en R. El si
 Existen ocho grandes categorías. Una vez selecciones una puedes filtrar los gráficos en base al tipo de gráfico y el paquete usado para crearlo (R base o ggplot2).
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/67192157/113421710-db310880-93cb-11eb-9216-9dd7f31cc05e.gif">
+ <img src="https://user-images.githubusercontent.com/67192157/114716251-2932fe00-9d34-11eb-92dc-9d6532f032f1.gif">
 </p>
 
 Luego puedes acceder a cada tutorial. Puedes copiar y pegar cada bloque de código haciendo click en la zona superior derecha de los bloques, navegar a través de todas las secciones con el menú de la izquierda y consultar contenido adicional con el carrousel inferior.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/67192157/113422036-5b576e00-93cc-11eb-9e7c-7117ff752c67.gif">
+ <img src="https://user-images.githubusercontent.com/67192157/114716416-52538e80-9d34-11eb-8bf7-8787b9f6254b.gif">
 </p>
 
 También hay tutoriales para aprender a personalizar los gráficos, tanto en R base como en ggplot2. La sección de R base tiene un mega menú con guías rápidas y enlaces accesibles en cualquier momento. También hay dos páginas que contienen todos los tutoriales para R base y todos los de ggplot2.
@@ -184,12 +183,11 @@ Si prefieres [crear tus propias paletas de color](https://r-charts.com/es/genera
 
 ## ¿Cómo contrubuir?
 
-+ **Si crees que falta algún tutorial importante** en el sitio [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) y házmelo saber. Sé que todavía hay muchos gráficos o paquetes interesantes sin su correspondiente tutorial, pero si recibo feedback podré priorizar la creación de los tutoriales más importantes. Si además quieres crear el tutorial [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) y pregúntame los pasos que tendrás que seguir para crearlo con R Markdown manteniendo el formato y estilo de la web. Puede que explique en este Readme esto último en un futuro cercano, para que no tengas que preguntar.
++ **Si crees que falta algún tutorial importante** en el sitio [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) y házmelo saber. Sé que todavía hay muchos gráficos o paquetes interesantes sin su correspondiente tutorial, pero si recibo feedback podré priorizar la creación de los tutoriales más importantes. Si además quieres crear el tutorial [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) y pregúntame los pasos que tendrás que seguir para crearlo con R Markdown manteniendo el formato y estilo de la web (necesitas saber HTML y CSS). Puede que explique en este Readme esto último en un futuro cercano, para que no tengas que preguntar.
 
-+ **Si has desarrollado un gráfico** que crees que puede ser interesante para otras personas o si has desarrollado **un nuevo paquete de R para visualización** y crees que puede ser interesante para la comunidad [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) explicándome sobre esas visualizaciones y por qué debería considerar agregarlas al sitio. Si quieres que sea yo quien cree la propuesta de tutorial seguramente tarde tiempo en estar disponible, pero si quieres contribuir creando el tutorial [abre también un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) preguntándome por los pasos a seguir.
++ **Si has desarrollado un gráfico** que crees que puede ser interesante para otras personas o si has desarrollado **un nuevo paquete de R para visualización** y crees que puede ser interesante para la comunidad [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues) explicándome sobre esas visualizaciones y por qué debería considerar agregarlas al sitio. Si quieres que sea yo quien cree la propuesta de tutorial seguramente tarde tiempo en estar disponible, pero si quieres contribuir creando el tutorial pregúntame por los pasos a seguir.
 
 + **Si encuentras alguna palabra mal escrita / una expresión incorrecta / enlaces rotos** también [abre un issue](https://github.com/R-CoderDotCom/R-CHARTS/issues).
-
 
 
 ## ¿Cómo apoyar este proyecto?
