@@ -1,5 +1,5 @@
 <h1 style="font-weight:normal" align="center">
-  &nbsp;R CHARTS 📈📊📉&nbsp;
+  &nbsp;📈 R CHARTS 📉&nbsp;
 </h1>
 
 <div align="center">
